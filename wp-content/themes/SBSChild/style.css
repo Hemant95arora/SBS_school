@@ -1,0 +1,63 @@
+/*
+Theme Name:   SBSChild
+Description:  School
+Author:       admin
+Author URL:   http://localhost/sbs/wordpress
+Template:     creativ-preschool
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  SBSChild
+*/
+
+/* Write here your own personal stylesheet */
+
+/*.main_content .container{
+padding: 5.5rem!important;
+    max-width: 109rem;
+    margin: auto;
+}*/
+
+#inner_about_row .wpb_wrapper{color: #fff;}
+#inner_about_row .wpb_wrapper h2{color: #fff;}
+.achievements_row .wpb_wrapper h2{color: #fff;}
+.site-info {background-color: #dd0606!important;}
+.mkd-top-bar-light .mkd-top-bar {display: none;}
+.vc_column-inner .owl-carousel .owl-item img{border-radius:188px;}
+.vc_column-inner .owl-carousel .owl-item h4{text-align: center;}
+.vc_column-inner .member-heading h4{font-size: 45px;}
+#owl-main .member_list img {width: 220px;height: 220px;object-fit: cover;display: block;margin: 0 auto 15px;max-width: 100%;}
+#owl-main .member_list{padding: 18px;}
+#owl-main .owl-nav button {position: absolute;top: 45%;font-size: 40px!important;}
+#owl-main .owl-nav .owl-prev{left:0;}
+#owl-main .owl-nav .owl-next{right:0;}
+#owl-main .owl-nav button span {width: 35px;height: 37px;line-height: 30px;display: block;}
+#owl-main .owl-nav button:focus{outline-style: unset;}
+.page-id-16454 .mkd-content .mkd-title-subtitle-holder-inner span{display:none;}
+.mkd-section .member_list h5{font-family: Caveat;text-align: center;}
+#owl-main .member_list h4{color: #fff;}
+#owl-main .member_list h5{text-align: center;color: #fff;}
+.achievements_row h2{color: #fff;}
+.wpb_wrapper p{color:#000;}
+#inner_about_row .wpb_wrapper p{color:#fff;}
+.wpb_wrapper h2{color: #000;}
+.wpcf7-form-control-wrap textarea{height: 118px;}
+.wpcf7-form-control-wrap input{width: 100%}
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {color: #fff;background-color: #dd0606 !important;}
+button, input[type="button"], input[type="reset"], input[type="submit"] {border: 2px solid #dd0606;}
+footer img{display: none;background:#dd0606;}
+footer aside{width: 500px;}
+footer {background: #dd0606!important;}
+footer ul li a{color:#fff!important;}
+footer ul li strong{color:#fff!important;}
+footer aside h2{color:#fff!important;}
+#colophon li:before, #secondary li:before {color: #fff!important;}
+#contact_page .wpb_wrapper{text-align: center;}
+#contact_page .wpb_wrapper h2{color:#fff;}
+#contact_page .wpb_wrapper p{color:#fff;}
+#contact_form .vc_column-inner{padding-top: 0px}
+.backtotop{background: #fff!important;}
+.backtotop i{color:#dd0606!important;}
+.md_content p.pri_name{text-align: right;margin-right: 38px;} 
+.md_content p.pri_name strong span{margin-right: 38px;} 
+.site-title a:hover, .site-title a:focus {color: #0056b3;}
